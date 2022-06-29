@@ -1,0 +1,23 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "D:\\\\Nuxt Js\\\\intro-nuxt-js\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_0f99f00e"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "D:\\\\Nuxt Js\\\\intro-nuxt-js\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_8be47be8"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Nuxt Js\\\\intro-nuxt-js\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_17eae2be"
+  }
+]
